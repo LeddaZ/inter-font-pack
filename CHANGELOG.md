@@ -1,5 +1,9 @@
 # Changelog
 
+## v4.0
+- Downgraded to Inter 3.19 since Inter Display doesn't look nice on Android
+- Restored Google Sans Clock as it needs proper metrics for Inter
+
 ## v4.0-beta9h
 - Updated fonts:
   - Inter Variable v4.0-beta9h
