@@ -14,9 +14,9 @@ function replace_name() {
   sed -i "s/^      $cur_name \([^UiP].*\)$/      $tgt_name \1/" "$@"
 }
 
-replace_name "Inter Variable" "Roboto" Roboto-Regular.ttx
-replace_name "Inter Variable" "Roboto" RobotoStatic-Regular.ttx
-replace_name "Inter Variable" "Google Sans" GoogleSans-*.ttx
+replace_name "Inter" "Roboto" Roboto-Regular.ttx
+replace_name "Inter" "Roboto" RobotoStatic-Regular.ttx
+replace_name "Inter" "Google Sans" GoogleSans-*.ttx
 replace_name "Source Serif 4 Display" "Noto Serif" NotoSerif-*.ttx
 replace_name "Fira Code" "Cutive Mono" CutiveMono.ttx
 replace_name "Fira Code" "Droid Sans Mono" DroidSansMono.ttx
