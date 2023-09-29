@@ -1,7 +1,7 @@
 id=inter-font-leddaz
 name=Inter Font Pack
-version=v4.0-beta9h
-versionCode=31902
+version=v4
+versionCode=40000
 author=LeddaZ
 description=Font pack that replaces the system fonts with Inter (sans-serif), Fira Code (monospace), and Source Serif Pro (serif).
 updateJson=https://raw.githubusercontent.com/LeddaZ/inter-font-pack/master/update.json
